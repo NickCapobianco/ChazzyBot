@@ -1,0 +1,2 @@
+# ChazzyBot
+ Social Discord Bot
