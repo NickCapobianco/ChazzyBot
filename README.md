@@ -16,6 +16,7 @@ The functionality of this bot is as follows:
 11) Commands to enter and exit voice channels that the user is in
 12) Pause, Stop, Resume commands for audio
 13) Volume adjustment command
-14) Meme & Chazzy soundboards
+14) Meme & Chazzy soundboards (Chazzy soundboard intentionally omitted as a courtesy to the owner of the voice)
 
 ### The code for this project is outdated and does not adhere to recent Discord API updates.
+Config file omitted for security purposes.
