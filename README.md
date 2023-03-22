@@ -1,3 +1,4 @@
+**PLEASE NOTE: This project is not licensed and as intended, does not permit use, distribution, and/or commercialization**
 This Discord bot was a 2019 project with the purpose of complimenting a gaming server.
 The functionality of this bot is as follows:
 1) Purge text channels of bot messages for cleanliness
