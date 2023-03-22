@@ -1,0 +1,5 @@
+- add a music queue
+- error handling for audio(q, queue)
+- music skip(skip)
+- Fix duration of soundboard played
+- Fix soundboard quality and file duration
