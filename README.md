@@ -1,4 +1,4 @@
-**PLEASE NOTE: This project is not licensed and as intended, does not permit use, distribution, and/or commercialization**
+### **PLEASE NOTE: This project is not licensed and as intended, does not permit use, distribution, and/or commercialization**
 
 
 This Discord bot was a 2019 project with the purpose of complimenting a gaming server.
@@ -17,3 +17,5 @@ The functionality of this bot is as follows:
 12) Pause, Stop, Resume commands for audio
 13) Volume adjustment command
 14) Meme & Chazzy soundboards
+
+### The code for this project is outdated and does not adhere to recent Discord API updates.
