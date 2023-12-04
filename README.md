@@ -12,7 +12,7 @@ The functionality of this bot is as follows:
 7) Purge an entire channel except pinned messages for a clean slate
 8) Provides a help menu for alternative commands
 9) A member count function to inquire into the number of members on the server
-10) A separate status seection with advertised live streamers
+10) A separate status section with advertised live streamers
 11) Commands to enter and exit voice channels that the user is in
 12) Pause, Stop, Resume commands for audio
 13) Volume adjustment command
